@@ -5,6 +5,7 @@ I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana Univer
 ## 🗨️ Social Media
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mahesahp05@gmail.com)
+<br/>
 
 ## 💻 Programming Language
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -12,11 +13,4 @@ I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana Univer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚡Github Statistic
-<p align="left">
-<a href="https://github.com/HaryoPamungkas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinma21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
-<br/>
