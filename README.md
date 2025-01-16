@@ -1,14 +1,14 @@
 ![Header Image](./assets/acavella_github-profile.png)
 
-I'm Tony, a senior infrastructure engineer by day. I live and breath enterprise linux, am a devops/automation enthusiast, a lifelong PKI student and homelab hacker. I am passionate about everything that is technology/open-source and am on a mission to constantly learn new things. 
+I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana University. 
 
 ## 🗨️ Social Media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cavella/](https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/))
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
 <a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
 
-## 💻 Technology Stack
+## 💻 Programming Language
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
 ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian&logoColor=white&color=2bbc8a)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
