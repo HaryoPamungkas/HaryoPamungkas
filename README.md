@@ -1,5 +1,3 @@
-![Header Image](./assets/acavella_github-profile.png)
-
 I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana University. 
 
 ## 🗨️ Social Media
@@ -7,8 +5,8 @@ I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana Univer
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mahesahp05@gmail.com)
 
 ## 💻 Programming Language
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://camo.githubusercontent.com/5a5f5779919b90579d121551d0521cda87c06534a0218a2f21883c438daf6cc1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" /></a>
-<a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://camo.githubusercontent.com/89567f55429cbe7ebbeb6eab21be45618d3459b4ba689ef351c232a4145addcf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" /></a>
-<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://camo.githubusercontent.com/39e3e17a1ff2a42b2451b007d37cf1cdc9e2a343e35813ff7deffdb685b348f8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" /></a>
-<a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://camo.githubusercontent.com/17962eb3d1dd3b11926720b06bad868b2f58a402ddb4010c02817fb4c1782796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667" /></a>
-<br>
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
