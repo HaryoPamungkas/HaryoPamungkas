@@ -3,7 +3,7 @@
 I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana University. 
 
 ## 🗨️ Social Media
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]([https://www.linkedin.com/in/kevin-pratama-9454b0250/](https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/))
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mahesahp05@gmail.com)
 
 ## 💻 Programming Language
