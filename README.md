@@ -3,10 +3,8 @@
 I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana University. 
 
 ## 🗨️ Social Media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cavella/](https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/))
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
-<a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]([https://www.linkedin.com/in/kevin-pratama-9454b0250/](https://www.linkedin.com/in/mahesa-haryo-pamungkas-7850b7347/))
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mahesahp05@gmail.com)
 
 ## 💻 Programming Language
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
