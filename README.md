@@ -1,3 +1,5 @@
+Hi there ✨
+
 I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana University. 
 
 ## 🗨️ Social Media
@@ -9,5 +11,12 @@ I'm Mahesa, A 6th-semester Informatics Engineering student at Mercu Buana Univer
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚡Github Statistic
+<p align="left">
+<a href="https://github.com/HaryoPamungkas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinma21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/>
