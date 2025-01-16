@@ -1,43 +1,24 @@
-# Hi there 👋 , I'm Mahesa Haryo Pamungkas !
-Informatics Engineering student at Mercu Buana University
+![Header Image](./assets/acavella_github-profile.png)
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
-</p>
+I'm Tony, a senior infrastructure engineer by day. I live and breath enterprise linux, am a devops/automation enthusiast, a lifelong PKI student and homelab hacker. I am passionate about everything that is technology/open-source and am on a mission to constantly learn new things. 
 
-### Let's connect!
-<p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p>
+## 🗨️ Social Media
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
+<a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technology Stack
+![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
+![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian&logoColor=white&color=2bbc8a)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Bash&logoColor=white&color=2bbc8a)
+![Powershell](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=Powershell&logoColor=white&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![Golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)\
+![sqlite](https://img.shields.io/badge/Tools-sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
+![Raspberry PI](https://img.shields.io/badge/Stack-Raspberry%20PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
+![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
